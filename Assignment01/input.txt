@@ -1,0 +1,8 @@
+int main(){
+    int a=10 , b=20;
+    iif(a > b) a = b +2;
+    else b = a - 2;
+    cout << a << endl;
+    cout << b << endl;
+    printf("hello"); //hello
+}
